@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260076613090",
+    "project_id": "fluttergokucoffee",
+    "storage_bucket": "fluttergokucoffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260076613090:android:0e54d0e719412fad309dbb",
+        "android_client_info": {
+          "package_name": "com.example.goku_coffee_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260076613090-fiusp31nehq2ofm5e7g8rvu8uo7n4bv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcGyaOCM4jdVeH5oGwWuQbk2XWIVgbeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260076613090-fiusp31nehq2ofm5e7g8rvu8uo7n4bv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
